@@ -1,0 +1,53 @@
+.dark-cat{
+    background-color:black;
+    background-size:cover;
+    height:auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.image-on{
+    width:150px;
+    height: 100px;
+}
+.cat-on{
+    width:180px;
+}
+.cardswitch{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height:150px;
+    width:200px;
+    background-color: gray;
+    border-radius:10px;
+}
+.para{
+    color: beige;
+    font-size: 20px;
+    font-family: roboto;
+    font-weight: 500;
+
+}
+.button-on{
+    height: 30px;
+    width: 80px;
+    background-color: green;
+    color:white;
+    border-radius: 20px;
+    border-width: 2px;
+    padding: 5px;
+    margin: 5px;
+}
+.button-off{
+    height: 30px;
+    width: 80px;
+    background-color: red;
+    color:white;
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 5px;
+    margin: 5px;
+}
